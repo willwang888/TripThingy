@@ -12,7 +12,7 @@
                 margin: 0;
                 padding: 0;
                 font-family: Helvetica, Arial, sans-serif;
-                background-image: url("nysky.jpg");
+                background-image: url("images/nysky.jpg");
                 
             }
             
@@ -38,7 +38,7 @@
                 
                 width:25px;
                 margin:11px 15px ;
-                float:left;
+                float:right;
                 
             }
             
@@ -48,7 +48,8 @@
                 font-size:90%;
                 position:relative;
                 top:14px;
-                padding-right:50px;
+/*                padding-right:px;*/
+                padding-left: 15px;
             }
             
             #wigglyline {
